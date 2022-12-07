@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React JS, Next Js and TypeScript**
 
-- 👨‍💻 All of my projects are available at <a href="[leviathannn.netlify.app](https://leviathannn.netlify.app/)" target="blank">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://leviathannn.netlify.app/" target="blank">My Portfolio</a>
 
 - 💬 Ask me about **React**
 
