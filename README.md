@@ -1,10 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Asrul
 =============================================================================================================================
-
-Junior FrontEnd Developer
+FrontEnd Developer
 -------------------------
 
-I am a junior frontend developer with a primary focus on React.js, Next.js, Tailwind CSS, and Framer Motion technologies. I am an individual who is diligent and passionate about the learning process, with the ultimate goal of realizing my aspirations as a professional frontend developer
+I am a frontend developer with a primary focus on React.js, Next.js, Tailwind CSS, and Framer Motion technologies. I am an individual who is diligent and passionate about the learning process, with the ultimate goal of realizing my aspirations as a professional frontend developer
 
 * 🌍  I'm based in Bandung , Indonesia
 * 🖥️  See my portfolio at [My Portfolio](http://asrul.tech)
